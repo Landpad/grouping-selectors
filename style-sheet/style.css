@@ -1,13 +1,9 @@
-button{
-    font-family: Arial, Helvetica, "Times New Roman", sans-serif;
-    font-size: 28px;    
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
 }
 
-.blackBkgrnd {
-    background-color: black;
-    color: white;
-}
-
-.yellowBkgrnd {
-    background-color: yellow;
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
 }
